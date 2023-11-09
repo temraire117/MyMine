@@ -1,0 +1,2 @@
+# MyMine
+Simple Minesweeper game
